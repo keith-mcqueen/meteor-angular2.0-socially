@@ -20,7 +20,7 @@ Run the following command in your Terminal:
 ##### Changed client/main.scss
 ```diff
 @@ -1,3 +1,5 @@
-+┊ ┊1┊@import "{}/node_modules/bootstrap/scss/bootstrap.scss";
++┊ ┊1┊@import "../node_modules/bootstrap/scss/bootstrap.scss";
 +┊ ┊2┊
  ┊1┊3┊.sebm-google-map-container {
  ┊2┊4┊  width: 400px;
